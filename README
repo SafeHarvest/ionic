@@ -1,0 +1,9 @@
+Ionic setup.  (I’m running late so rushing this. Will make it better later.)
+
+1. Make sure latest NodeJS is installed. 
+
+2. Run  npm install -g cordova ionic
+
+3. You may need to run ionic setup sass to install sass. Skip this unless step 4 fails
+
+4. Run app in browser by typing ‘ionic serve’
